@@ -1,0 +1,30 @@
+/* CSS Resets */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+html,
+body {
+  height: 100%;
+  background-color: #272829;
+}
+
+#container {
+    border: 3px solid black;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    > h1 {
+        color: white;
+        font-size: 5rem;
+        font-family: 'Space Mono', monospace;
+    }
+}
