@@ -1,3 +1,4 @@
+![GIF](/assets/video01.gif)
 ![Screenshot](/assets/01.png)
 
 # Hacker Text
